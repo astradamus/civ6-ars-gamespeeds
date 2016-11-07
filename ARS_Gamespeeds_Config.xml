@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<GameSpeeds>
+		<Row GameSpeedType="GAMESPEED_ARS_1P2X" Name="LOC_GAMESPEED_ARS_1P2X_NAME" Description="LOC_GAMESPEED_ARS_1P2X_HELP" SortIndex="40" />
+		<Row GameSpeedType="GAMESPEED_ARS_2X" Name="LOC_GAMESPEED_ARS_2X_NAME" Description="LOC_GAMESPEED_ARS_2X_HELP" SortIndex="60" />
+		<Row GameSpeedType="GAMESPEED_ARS_4X" Name="LOC_GAMESPEED_ARS_4X_NAME" Description="LOC_GAMESPEED_ARS_4X_HELP" SortIndex="80" />
+		<Row GameSpeedType="GAMESPEED_ARS_6X" Name="LOC_GAMESPEED_ARS_6X_NAME" Description="LOC_GAMESPEED_ARS_6X_HELP" SortIndex="90" />
+        
+		<Update>
+            <Where GameSpeedType="GAMESPEED_EPIC" />
+            <Set SortIndex="50" />
+        </Update>
+		<Update>
+            <Where GameSpeedType="GAMESPEED_MARATHON" />
+            <Set SortIndex="70" />
+        </Update>
+	</GameSpeeds>
+</GameInfo>

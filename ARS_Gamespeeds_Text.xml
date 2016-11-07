@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+    
+		<Replace Tag="LOC_GAMESPEED_ARS_1P2X_NAME" Language="en_US">
+			<Text>1.2X</Text>
+		</Replace>
+		<Replace Tag="LOC_GAMESPEED_ARS_1P2X_HELP" Language="en_US">
+			<Text>600 Turns. One and one fifth times as many as Standard (120%).</Text>
+		</Replace>
+    
+		<Replace Tag="LOC_GAMESPEED_ARS_2X_NAME" Language="en_US">
+			<Text>2X</Text>
+		</Replace>
+		<Replace Tag="LOC_GAMESPEED_ARS_2X_HELP" Language="en_US">
+			<Text>1000 Turns. Twice as many as Standard (200%).</Text>
+		</Replace>
+    
+		<Replace Tag="LOC_GAMESPEED_ARS_4X_NAME" Language="en_US">
+			<Text>4X</Text>
+		</Replace>
+		<Replace Tag="LOC_GAMESPEED_ARS_4X_HELP" Language="en_US">
+			<Text>2000 Turns. Four times as many as Standard (400%).</Text>
+		</Replace>
+    
+		<Replace Tag="LOC_GAMESPEED_ARS_6X_NAME" Language="en_US">
+			<Text>6X</Text>
+		</Replace>
+		<Replace Tag="LOC_GAMESPEED_ARS_6X_HELP" Language="en_US">
+			<Text>3000 Turns. Six times as many as Standard (600%).</Text>
+		</Replace>
+
+        
+        
+		<Replace Tag="LOC_GAMESPEED_MARATHON_HELP" Language="en_US">
+			<Text>1500 Turns. Three times as many as Standard (300%).</Text>
+		</Replace>
+
+		<Replace Tag="LOC_GAMESPEED_EPIC_HELP" Language="en_US">
+			<Text>750 Turns. One and a half times as many as Standard (150%).</Text>
+		</Replace>
+
+		<Replace Tag="LOC_GAMESPEED_STANDARD_HELP" Language="en_US">
+			<Text>500 Turns. (100%).</Text>
+		</Replace>
+
+		<Replace Tag="LOC_GAMESPEED_QUICK_HELP" Language="en_US">
+			<Text>330 Turns. One third less than Standard (66%).</Text>
+		</Replace>
+
+		<Replace Tag="LOC_GAMESPEED_ONLINE_HELP" Language="en_US">
+			<Text>250 Turns. Half as many as Standard (50%).</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
